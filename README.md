@@ -1,7 +1,7 @@
 # Calculator
-Java code that creates a simple calculator UI with basic operations like multiplication and division and other stuff.
+*This runs on Java
 
-When you download the file, all you have to do is run the code and a small little calculator UI will pop up.
+When you copy the code and input to whatever Java workspace you use, just run it and play around with the calculator.
 
 Button functionality when you run the code:
 - The D (delete) in the top right corner deletes the most recent input starting from the right. Let's say you put in 23, if you click the D button, it will get rid of the 3 leaving only the 2.
